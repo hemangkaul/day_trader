@@ -1,6 +1,6 @@
 # DAY TRADER
 #### Video Demo:
-https://youtu.be/r6IiQ7VrJoksubmit50 cs50/problems/2022/python/project
+https://youtu.be/r6IiQ7VrJok
 #### Description:
 My project is an implementation of a game I call Day Trader. The basic game tenent of the game is to buy low and sell high. The game uses real stocks as the basis of the game and gathers real-time stock prices scraped from Yahoo Finance. This game needs to be played during high volatility trading hours to really enjoy the ups and downs of the market.
 
